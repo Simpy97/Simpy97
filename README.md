@@ -1,4 +1,6 @@
- ![Beige and White Modern LinkedIn Background Photo](https://github.com/Simpy97/Simpy97/assets/123116251/0f930c65-6615-49aa-998e-36966363bff1)
+
+![Black Technology LinkedIn Banner](https://github.com/Simpy97/Simpy97/assets/123116251/ae09c392-4519-40bb-96a3-19a0c9b9eea8)
+
 <h1 align="center">Hi 👋, I'm Alice</h1>
 <h3 align="center">🚀 Driven Student on the quest for Power BI Developer Roles 📊</h3>
 
