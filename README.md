@@ -1,4 +1,4 @@
-![Logo] ![Beige and White Modern LinkedIn Background Photo](https://github.com/Simpy97/Simpy97/assets/123116251/0f930c65-6615-49aa-998e-36966363bff1)
+ ![Beige and White Modern LinkedIn Background Photo](https://github.com/Simpy97/Simpy97/assets/123116251/0f930c65-6615-49aa-998e-36966363bff1)
 <h1 align="center">Hi 👋, I'm Sandeep Kaur</h1>
 <h3 align="center">🚀 Driven Student on the quest for Power BI Developer Roles 📊</h3>
 
