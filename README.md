@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm simpy97</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Kaur</h1>
+<h3 align="center">🚀 Driven Student on the quest for Power BI Developer Roles 📊</h3>
 
 <img align="right" alt="data analyst" width="400" src="https://files-scs-prod.s3.ap-southeast-1.amazonaws.com/public%2Fimages%2F1603252501609-Data+Analyst+and+Scientist+Job+Descriptions%2C+Skills%2C+and+Qualifications.jpg">
 
