@@ -1,7 +1,7 @@
 
-![Black Technology LinkedIn Banner](https://github.com/Simpy97/Simpy97/assets/123116251/ae09c392-4519-40bb-96a3-19a0c9b9eea8)
+![Beige and White Modern LinkedIn Background Photo](https://github.com/Simpy97/Simpy97/assets/123116251/145bc863-b42e-4708-9893-a7def32aa6e4)
 
-<h1 align="center">Hi 👋, I'm Alice</h1>
+<h1 align="center">Hi 👋, I'm Sandeep Kaur</h1>
 <h3 align="center">🚀 Driven Student on the quest for Power BI Developer Roles 📊</h3>
 
 <img align="right" alt="data analyst" width="400" src="https://files-scs-prod.s3.ap-southeast-1.amazonaws.com/public%2Fimages%2F1603252501609-Data+Analyst+and+Scientist+Job+Descriptions%2C+Skills%2C+and+Qualifications.jpg">
